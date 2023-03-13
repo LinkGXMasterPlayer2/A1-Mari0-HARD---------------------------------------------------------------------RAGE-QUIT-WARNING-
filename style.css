@@ -1,0 +1,55 @@
+.heading{
+
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+
+    display: inline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 7px 7px 7px black;
+}
+.heading button{
+
+    float: right;
+    border: 1px solid white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 7px 7px 7px black;
+}
+.big_image{
+
+    width: 100%;
+
+}
+#start, #status{
+
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 7px 7px 7px black;
+}
+h4{
+
+    background-color: rgb(117, 38, 195);
+    line-height: 2;
+    margin: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 7px 7px 7px black;
+    color:rgb(255, 255, 255)
+}
+.modal-dialog{
+
+    width: 90%;
+
+}
+.instruction_image{
+
+    display: inline-block;
+    width: 45%;
+}
+video{
+
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
